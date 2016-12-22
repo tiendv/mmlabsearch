@@ -1,0 +1,15 @@
+E:\Workspace\LoadImages\LoadImages\bin\Debug\LoadImages.exe.config
+E:\Workspace\LoadImages\LoadImages\bin\Debug\LoadImages.exe
+E:\Workspace\LoadImages\LoadImages\bin\Debug\LoadImages.pdb
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.csprojResolveAssemblyReference.cache
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.Properties.Resources.resources
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.csproj.GenerateResource.Cache
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.exe
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.pdb
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.frmMain.resources
+E:\Workspace\LoadImages\LoadImages\bin\Debug\Interop.WMPLib.dll
+E:\Workspace\LoadImages\LoadImages\bin\Debug\AxInterop.WMPLib.dll
+E:\Workspace\LoadImages\LoadImages\obj\Debug\Interop.WMPLib.dll
+E:\Workspace\LoadImages\LoadImages\obj\Debug\AxInterop.WMPLib.dll
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.csproj.ResolveComReference.cache
+E:\Workspace\LoadImages\LoadImages\obj\Debug\LoadImages.View.ImageUserControl.resources
